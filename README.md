@@ -20,14 +20,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="280">
+  <a href="https://ciencias.epn.edu.ec/">
+    <img src="images/logo.png" alt="Logo" width="300">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Visualización-Segmentación-Archivos-DICOM</h3>
 
   <p align="center">
-    Python para manipulación y visualización de archivos DICOM de TC
+    El siguiente repositorio contiene una implementación de código en Python que permite la manipulación de archivos DICOM de TC para la visualización de las imágenes en diferentes planos anatómicos y segmentación de tejido pulmonar.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
