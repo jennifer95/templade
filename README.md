@@ -46,7 +46,7 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Acerca del Proyecto</a>
+      <a href="#Acerca-del-Proyecto">Acerca del Proyecto</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
