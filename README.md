@@ -77,7 +77,7 @@
 
 En el presente proyecto, se introducen dos metodologías esenciales que servirán como paso previo para la generación de futuros sistemas de Diagnóstico Asistido por Computadora (CAD) para la detección automática de numerosas enfermedades pulmonares.
 
-* La primera metodología fue realizada con el objetivo de extraer información de archivos con formato DICOM mediante el uso de Python y el entorno de programación Jupyter Notebook. El proceso seguido hace posible la generación de imágenes en diferentes planos anatómicos, como es el plano coronal y el plano sagital, por medio de la matriz de píxeles, adicionalmente se desarrollo una herramienta para anonimizar y visualizar la información e imágenes en archivos DICOM.
+* La primera metodología fue realizada con el objetivo de extraer información de archivos con formato DICOM mediante el uso de Python y el entorno de programación Jupyter Notebook. El proceso seguido hace posible la generación de imágenes en diferentes planos anatómicos, como es el plano coronal y el plano sagital, por medio de la matriz de píxeles, adicionalmente se desarrollo una herramienta (DICOM VISUALIZER) para anonimizar y visualizar la información e imágenes en archivos DICOM.
 * La segunda herramienta presenta una técnica de segmentación de pulmones en imágenes de tomografía computarizada de tórax. La segmentación hace uso de la matriz de píxeles en unidades Hounsfield para identificar en un principio el tejido pulmonar mediante su grado de atenuación lineal de rayos X, luego se utiliza el algoritmo de Watershed basado en marcadores, siendo esta la base principal de la técnica, además se emplean diferentes operaciones morfológicas y transformaciones sobre los cortes axiales, obteniendo así la segmentación de pulmones.
 
 
@@ -101,23 +101,18 @@ Para tener el ambiente adecuado para ejecutar el código sin errores se debe ten
 
 * Python 3.X (Cualquier versión de Python 3)
 * Pip 3 (Gestor de bibliotecas de Python 3)
-* Jupyter Lab o Jupyter Hub (Cualquier versión)
+* Jupyter Notebook (Cualquier versión)
 
 
 ### Instalación
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clonar el repositorio
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clonehttps://github.com/jennifer95/visualizacion-segmentacion-pulmonar-DICOM-python.git
    ```
-3. Install NPM packages
+2. Instalación de librerías
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+   pip install -r requirements.txt
    ```
 
 
