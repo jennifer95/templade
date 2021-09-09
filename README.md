@@ -53,10 +53,10 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Empezando">Empezando</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisitos">Prerequisitos</a></li>
+        <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -84,7 +84,7 @@ En el presente proyecto, se introducen dos metodologías esenciales que servirá
 
 ### Herramientas usadas
 
-Las principales herramientas usadas para este proyecto son:
+Las herramientas usadas para este proyecto son:
 * [Python](https://www.python.org/)
 * [Jupyter Notebook](https://jupyter.org/)
 
@@ -92,20 +92,19 @@ Las principales herramientas usadas para este proyecto son:
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Empezando
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Para tener el ambiente adecuado para ejecutar el código sin errores se debe tener el software base descrito en prerequisitos y seguir los pasos que se muestran a continuación.
 
-### Prerequisites
+### Prerequisitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
-### Installation
+* Python 3.X (Cualquier versión de Python 3)
+* Pip 3 (Gestor de bibliotecas de Python 3)
+* Jupyter Lab o Jupyter Hub (Cualquier versión)
+
+
+### Instalación
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
