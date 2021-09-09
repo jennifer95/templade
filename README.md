@@ -166,8 +166,6 @@ Project Link: [https://github.com/jennifer95/visualizacion-segmentacion-pulmonar
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Agradecimientos
-* [Guido Zuidhof. Full preprocessing tutorial](https://www.kaggle.com/g
-zuidhof/full-preprocessing-tutorial)
-* [Ankasor. Improved lung segmentation using watershed](https://www.
-kaggle.com/ankasor/improved-lung-segmentation-using-watershed)
+* [Guido Zuidhof. Full preprocessing tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial)
+* [Ankasor. Improved lung segmentation using watershed](https://www.kaggle.com/ankasor/improved-lung-segmentation-using-watershed)
 
