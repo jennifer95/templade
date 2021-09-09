@@ -34,7 +34,7 @@
     .
     <a href="https://github.com/jennifer95/visualizacion-segmentacion-pulmonar-DICOM-python/blob/main/Visualizaci%C3%B3n%20de%20im%C3%A1genes%20DICOM.ipynb">Visualización DICOM</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Herramienta</a>
+    <a href="https://github.com/jennifer95/visualizacion-segmentacion-pulmonar-DICOM-python/tree/main/Herramienta%20DICOM%20VISUALIZER">Herramienta</a>
     .
     <a href="https://github.com/jennifer95/visualizacion-segmentacion-pulmonar-DICOM-python/blob/main/Segmentaci%C3%B3n%20de%20tejido%20pulmonar.ipynb">Segmentación Pulmonar</a>
   </p>
@@ -59,7 +59,7 @@
         <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Estructura-del-Proyecto">Estructura del Proyecto</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -74,6 +74,8 @@
 ## Acerca del Proyecto
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
+
+<img src="images/CT_1000.png" alt="Logo" width="200">
 
 En el presente proyecto, se introducen dos metodologías esenciales que servirán como paso previo para la generación de futuros sistemas de Diagnóstico Asistido por Computadora (CAD) para la detección automática de numerosas enfermedades pulmonares.
 
@@ -108,7 +110,7 @@ Para tener el ambiente adecuado para ejecutar el código sin errores se debe ten
 
 1. Clonar el repositorio
    ```sh
-   git clonehttps://github.com/jennifer95/visualizacion-segmentacion-pulmonar-DICOM-python.git
+   git clone https://github.com/jennifer95/visualizacion-segmentacion-pulmonar-DICOM-python.git
    ```
 2. Instalación de librerías
    ```sh
@@ -118,7 +120,7 @@ Para tener el ambiente adecuado para ejecutar el código sin errores se debe ten
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Estructura del Proyecto
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
