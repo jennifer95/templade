@@ -49,7 +49,7 @@
     <li>
       <a href="#Acerca-del-Proyecto">Acerca del Proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Herramientas-usadas">Herramientas usadas</a></li>
       </ul>
     </li>
     <li>
@@ -82,15 +82,12 @@ En el presente proyecto, se introducen dos metodologías esenciales que servirá
 
 
 
+### Herramientas usadas
 
-En este proyecto, se utilizaron 35 exámenes en modalidad de tomografía computarizada (TC) con diferentes protocolos y con una media de 97 imágenes por examen para evaluar la primera herramienta. De modo similar la segmentación de pulmones fue realizada para 18 exámenes de TC de toráx, lo que demostró que la herramienta es precisa y rápida.
+Las principales herramientas usadas para este proyecto son:
+* [Python](https://www.python.org/)
+* [Jupyter Notebook](https://jupyter.org/)
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
 
 
 
